@@ -9,3 +9,5 @@ This dashboard have:
 - statuses of recent orders
 - all services of sidebar
 - Daily views, Sales, Comments, Earning
+
+Live link: https://salehashujaat786.github.io/admin-panel-dashboard/
